@@ -3,8 +3,8 @@
 // @namespace    https://github.com/TheShepsMT89/Live-Reload-with-Live.js
 // @homepageURL  https://github.com/TheShepsMT89/Live-Reload-with-Live.js
 // @supportURL   https://github.com/TheShepsMT89/Live-Reload-with-Live.js/issues
-// @updateURL    https://github.com/TheShepsMT89/Live-Reload-with-Live.js/blob/main/live_reload.user.js
-// @downloadURL  https://github.com/TheShepsMT89/Live-Reload-with-Live.js/blob/main/live_reload.user.js
+// @updateURL    https://raw.githubusercontent.com/TheShepsMT89/Live-Reload-with-Live.js/main/live_reload.user.js
+// @downloadURL  https://raw.githubusercontent.com/TheShepsMT89/Live-Reload-with-Live.js/main/live_reload.user.js
 // @version      1.0.0
 // @description  Live reloading for localhost development using Live.js
 // @author       TheShepsMT

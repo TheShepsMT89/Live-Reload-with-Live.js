@@ -14,7 +14,7 @@ This Tampermonkey user script facilitates **live reloading** during development 
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net).
-2. Go to the [live_reload.user.js](https://github.com/TheShepsMT89/Live-Reload-with-Live.js/blob/main/live_reload.user.js) script.
+2. Go to the [live_reload.user.js](https://raw.githubusercontent.com/TheShepsMT89/Live-Reload-with-Live.js/main/live_reload.user.js) script.
 3. Press the Install button.
 
 ## Usage
