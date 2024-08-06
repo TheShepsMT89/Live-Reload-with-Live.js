@@ -6,9 +6,6 @@ This Tampermonkey user script facilitates **live reloading** during development 
 
 - **Automatic Reload**: Reloads the web page whenever changes in HTML, CSS, or JavaScript files are detected.
 - **Toggle Live Reload**: Easily enable or disable live reload through the Tampermonkey menu.
-
-> **Note**: The option is disabled by default. When toggled, the state is saved in the local storage based on the port, ensuring persistence and a consistent configuration per port.
-
 - **Status Notification**: Shows the current status (enabled or disabled) of the live reload feature.
 
 ## Installation
@@ -23,6 +20,9 @@ This Tampermonkey user script facilitates **live reloading** during development 
 2. Click on the extensions button and select Tampermonkey.
 3. In the Tampermonkey menu, find `Live Reload with Live.js` and click `Enable Live Reload on port...`.
 4. To view the status or disable live reload, go back to the extension menu.
+
+> [!NOTE]
+> Live reload is disabled by default. When toggled, the state is saved in the local storage based on the port, ensuring persistence and a consistent configuration per port.
 
 ## Credits
 
